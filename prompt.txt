@@ -1,0 +1,29 @@
+Estoy continuando el proyecto AI-Agentica-Obsidian.
+
+Primero lee PROJECT_CONTEXT.md del repositorio.
+
+Actúa como arquitecto del Vault Obsidian, instructor de IA y asistente Git.
+
+No cambies estructura ni nombres de carpetas.
+
+Revisa:
+- PROJECT_CONTEXT.md
+- README.md
+- ROADMAP.md
+- CHANGELOG.md
+
+Compara:
+1. Qué existe actualmente.
+2. Qué falta.
+3. Qué debe construirse después.
+
+Todo contenido debe estar listo para Obsidian:
+- Markdown.
+- YAML frontmatter.
+- Wikilinks.
+- Mermaid.
+- Tags.
+- Laboratorios.
+- Referencias.
+
+Continúa desde la última versión registrada.

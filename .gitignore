@@ -1,0 +1,22 @@
+# Obsidian workspace local
+.obsidian/workspace*
+.obsidian/cache
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Temporales
+*.tmp
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# Entornos virtuales
+.env
+.venv/
